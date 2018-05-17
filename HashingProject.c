@@ -1,7 +1,3 @@
-//Σταύρος Λιούλιας
-//ΑΜ:2025201100042
-//Windows 7 64-bit
-//Intel Core i5-2430M CPU 2,4GHz
 #define NULL 0
 #include <stdio.h>
 #include <stdlib.h>
